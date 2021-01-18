@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Program7.dir/driver.cpp.o CMakeFiles/Program7.dir/longint.cpp.o  -o Program7.exe -Wl,--out-implib,libProgram7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,4 @@
+"C:\Users\Amman Nega\.CLion2018.1\system\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/cygwin64/bin/make.exe -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/cmake-build-debug

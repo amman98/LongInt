@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/deque.cpp.h
+
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/deque.h
+iostream
+-
+deque.cpp.h
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/deque.cpp.h
+
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/driver.cpp
+iostream
+-
+longint.h
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/longint.h
+
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/longint.cpp
+longint.h
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/longint.h
+
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/longint.h
+iostream
+-
+deque.h
+/cygdrive/c/Users/Amman Nega/Desktop/CSS 342/Program7/deque.h
+
