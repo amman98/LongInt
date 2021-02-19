@@ -8,6 +8,7 @@ using namespace std;
 class LongInt {
     friend istream &operator>>( istream &in, LongInt &rhs );
     friend ostream &operator<<( ostream &out, const LongInt &rhs );
+
 public:
     // Constructors
     LongInt( const string str );
@@ -21,7 +22,7 @@ public:
     LongInt operator+( const LongInt &rhs ) const;
     LongInt operator-( const LongInt &rhs ) const;
 
-    // assignment operators
+    // Assignment operators
     const LongInt &operator=( const LongInt &rhs );
 
     // Logical binary operators

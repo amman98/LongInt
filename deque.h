@@ -25,11 +25,13 @@ public:
     const Deque &operator=( const Deque &rhs ); // assignment
 
 private:
+    // structure represents a single node
     struct DequeNode {                          // a deque node
         Object item;
         DequeNode *next;
         DequeNode *prev;
     };
+
     DequeNode *front;
     DequeNode *back;
 };
